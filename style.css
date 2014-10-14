@@ -1,0 +1,9 @@
+.img-fl-left {
+	float: left;
+	padding: 5px;
+	border: 1px solid #ddd;
+	max-width: 200px;
+	height: auto;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
